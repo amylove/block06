@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.inline-box {
+    display: inline-block;
+    width: 15em;
+    margin: 10px 25px 10px 0;
+    border: 1px dotted gray;
+    padding: 0 10px;
+    background-color: aliceblue;
+    height: 150px;
+}
+section {
+    width: 60vw;
+}
+h1 {
+    color: orange;
+    text-align: center;
+}
+h2 { 
+    border: 1px solid darkorange;
+    border-radius: 4px;
+    background-color: salmon;
+    width: 50vw;
+    text-transform: uppercase;
+    padding: 5px;
+    color: white;
+}
+h3 {
+    text-transform: uppercase;
+}
+li {
+    padding: 2px 0;
+}
+
+img {
+    width: 200px;
+}
